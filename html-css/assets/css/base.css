@@ -1,0 +1,62 @@
+@import url(_reset.css);
+@import url(_variables.css);
+@import url(_about-us.css);
+@import url(components/_button.css);
+@import url(components/_header.css);
+@import url(components/_info-card.css);
+@import url(components/_job-offer-card.css);
+@import url(_our-statistics.css);
+@import url(_job-offer.css);
+@import url(_vacancies.css);
+@import url(_collaborators.css);
+@import url(_footer.css);
+
+body {
+  background-color: var(--white);
+  color: var(--text);
+  font-family: var(--inter);
+  font-weight: var(--text-weight);
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  padding: 0 7rem;
+}
+
+.title-section {
+  text-align: center;
+}
+
+.secundary-title {
+  color: var(--red);
+  display: inline-block;
+  font-weight: var(--title-weight);
+}
+
+.title {
+  color: var(--black-title);
+  font-weight: var(--title-weight);
+}
+
+.subtitle {
+  color: var(--black-title);
+  font-weight: var(--subtitle-weight);
+}
+
+.paragraph {
+  font-size: 1.25rem;
+}
+
+@media screen and (max-width: 768px) {
+  .container {
+    padding: 1rem;
+  }
+
+  .title-section {
+    text-align: initial;
+  }
+  
+}

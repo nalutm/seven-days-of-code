@@ -1,0 +1,19 @@
+.info-card {
+  text-align: left;
+  width: 17.5rem;
+}
+
+.secundary-title--info-card {
+  font-size: 3.75rem;
+  margin-bottom: .75rem;
+}
+
+.subtitle--info-card {
+  font-size: 1.125rem;
+  margin-bottom: .5rem;
+}
+
+.card-description {
+  font-weight: 1rem;
+  line-height: 1.5rem;
+}

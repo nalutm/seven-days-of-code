@@ -1,0 +1,22 @@
+.vacancies {
+  padding: 0 20rem;
+}
+
+.vacancie {
+  margin-bottom: 4rem;
+}
+
+.subtitle--vacancies {
+  font-size: 1.125rem;
+  margin-bottom: 2rem;
+}
+
+@media screen and (max-width: 768px) {
+  .vacancies {
+    padding: 0 1rem;
+  }
+
+  .vacancies__list {
+    width: 100%;
+  }
+}

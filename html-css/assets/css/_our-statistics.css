@@ -1,0 +1,13 @@
+.our-statistics {
+  box-sizing: border-box;
+  display: flex;
+  gap: 32px;
+  margin-bottom: 6rem;
+}
+
+@media screen and (max-width: 768px) {
+  .our-statistics {
+    flex-direction: column;
+    margin-bottom: 1rem;
+  }
+}

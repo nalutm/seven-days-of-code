@@ -1,0 +1,17 @@
+:root {
+  --text: #667085;
+  --background: rgba(196, 25, 25, 0.03);
+  --black-title:  #101828;
+  --border:  #EAECF0;
+  --button-hover: #c30a0a;
+  --grey: #F9FAFB;
+  --input-border: #D0D5DD;
+  --red:  #8E2424;
+  --white: #FFF;
+ 
+  --inter: 'Inter', sans-serif;
+  --text-weight: 400;
+  --title-weight: 600;
+  --subtitle-weight: 500;
+  
+}

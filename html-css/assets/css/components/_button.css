@@ -1,0 +1,19 @@
+.button {
+  color: var(--white);
+  background-color: var(--red);
+  border-radius: 5px;
+  display: inline-block;
+  font-weight: var(--subtitle-weight);
+  padding: 12px 18px;
+}
+
+.button:hover {
+  background-color: var(--button-hover);
+  cursor: pointer;
+}
+
+@media screen and (max-width: 768px) {
+  .button {
+    padding: 10px 15px;
+  }
+}

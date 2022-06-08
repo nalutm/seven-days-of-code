@@ -1,0 +1,46 @@
+.job-offer {
+  padding: 0 7rem;
+}
+
+.secundary-title--job-offer,
+.title--job-offer {
+  margin-bottom: 1.25rem;
+}
+
+.secundary-title--job-offer {
+  font-size: .875rem;
+  background: var(--background);
+  border-radius: 16px;
+  width: 125px;
+  height: 20px;
+  padding-top: 8px;
+}
+
+.title--job-offer {
+  font-size: 2.25rem;
+}
+
+.paragraph--job-offer {
+  margin-bottom: 4rem;
+}
+
+.job-offer__img {
+  width: 100%;
+  margin-bottom: 4rem;
+}
+
+@media screen and (max-width: 768px) {
+  .job-offer {
+    padding: 0 1rem;
+  }
+
+  .title--job-offer {
+    font-size: 1.75rem;
+    line-height: 2.25rem;
+  }
+
+  .paragraph--job-offer {
+    font-size: 1rem;
+    margin-bottom: 1rem;
+  }
+}
