@@ -1,6 +1,6 @@
 # 7 days of code 
 
-7 days of code são [desafios em tecnologia](https://7daysofcode.io/) cujo objetivo é colocar em prática os conhecimentos aprendidos.
+[7 days of code](https://7daysofcode.io/) são desafios em tecnologia cujo objetivo é colocar em prática os conhecimentos aprendidos.
 
 O primeiro desafio que estou realizando é o de HTML e CSS e consiste em deselvover uma página destinada a novas contratações de uma empresa de TI. 
 
