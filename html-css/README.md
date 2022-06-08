@@ -18,7 +18,7 @@ A partir desse desafio treinei:
 * layout responsivo;
 * componentização;
 
-![imagem](./assets/img/...)
+![imagem](./assets/img/desktop-layout.png)
 
 ## Status do Projeto
 Finalizado
@@ -28,7 +28,7 @@ Finalizado
 * CSS;
 
 ## Acesso ao projeto
-Você pode acessar o [código fonte do projeto](https://github.com/nalutm/7days-of-code/html-css) ou [baixá-lo](https://github.com/nalutm/7days-of-code/html-css/archive/refs/heads/main.zip). Também pode acessar a [página para conferir o resultado final]().
+Você pode acessar o [código fonte do projeto](https://github.com/nalutm/seven-days-of-code/tree/main/html-css). Também pode acessar a [página para conferir o resultado final](https://html-csss.vercel.app/).
 
 ## Autora
 [Nayara Luiza Tavares Moraes](https://github.com/nalutm)
