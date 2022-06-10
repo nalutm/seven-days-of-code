@@ -22,11 +22,10 @@ A partir desse desafio treinei:
 
 Como parte de um desafio extra, desenvolvi uma versão de layout mobile 
 
-![screenshot mobile layout](./assets/mobile.jpg)
-
-
-
-![screenshot mobile layout com menu ativo](./assets/mobile-active.jpg)
+<div align="center">
+  <img src="./html-css/assets/mobile.jpg">
+  <img src="./html-css/assets/mobile-active.jpg">
+</div>
 
 ## Status do Projeto
 Finalizado
