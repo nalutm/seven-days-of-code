@@ -18,7 +18,12 @@ A partir desse desafio treinei:
 * layout responsivo;
 * componentização;
 
-![imagem](./assets/img/desktop-layout.png)
+![screenshot desktop layout](./assets/img/desktop-layout.png)
+
+Como parte de um desafio extra que propus para mim mesma, desenvolvi um layout mobile 
+
+![screenshot mobile layout](./assets/mobile.jpeg)
+![screenshot mobile layout com menu ativo](./assets/mobile-active.jpeg)
 
 ## Status do Projeto
 Finalizado
@@ -28,7 +33,7 @@ Finalizado
 * CSS;
 
 ## Acesso ao projeto
-Você pode acessar o [código fonte do projeto](https://github.com/nalutm/seven-days-of-code/tree/main/html-css). Também pode acessar a [página para conferir o resultado final](https://html-csss.vercel.app/).
+Você pode acessar o [código fonte do projeto](https://github.com/nalutm/seven-days-of-code/tree/main/html-css). Também pode acessar a [página para conferir o resultado final](https://seven-days-of-code-beta.vercel.app/).
 
 ## Autora
 [Nayara Luiza Tavares Moraes](https://github.com/nalutm)
