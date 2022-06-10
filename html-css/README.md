@@ -24,6 +24,8 @@ Como parte de um desafio extra, desenvolvi uma versão de layout mobile
 
 ![screenshot mobile layout](./assets/mobile.jpg)
 
+
+
 ![screenshot mobile layout com menu ativo](./assets/mobile-active.jpg)
 
 ## Status do Projeto

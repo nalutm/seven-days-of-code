@@ -6,11 +6,14 @@ O primeiro desafio que estou realizando é o de HTML e CSS e consiste em deselvo
 
 ![imagem](./html-css/assets/img/desktop-layout.png)
 
+
 Como parte de um desafio extra, desenvolvi uma versão de layout mobile 
 
-![screenshot mobile layout](./assets/mobile.jpg)
+![screenshot mobile layout](./html-css/assets/mobile.jpg)
 
-![screenshot mobile layout com menu ativo](./assets/mobile-active.jpg)
+
+
+![screenshot mobile layout com menu ativo](./html-css/assets/mobile-active.jpg.jpg)
 
 * [Confeir o protótipo figma](https://www.figma.com/file/mm3MLozvUDGhDRTxSLlGL5/7daysOfCode-HTML-CSS?node-id=0%3A1)
 * [Conferir o código fonte](https://github.com/nalutm/seven-days-of-code/tree/main/html-css)
