@@ -17,7 +17,7 @@
   margin-bottom: 6.6rem;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 970px) {
   .about-us {
     padding: 0 1rem; 
     margin-top: 3rem;

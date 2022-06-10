@@ -39,7 +39,7 @@
   font-size: .875rem;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 970px) {
   .collaborators {
     margin: 0 2rem 3rem;
     padding: 2rem 1rem;

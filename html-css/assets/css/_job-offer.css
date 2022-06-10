@@ -29,7 +29,7 @@
   margin-bottom: 4rem;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 970px) {
   .job-offer {
     padding: 0 1rem;
   }
