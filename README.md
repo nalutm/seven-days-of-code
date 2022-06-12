@@ -11,6 +11,8 @@
     - [Screenshot](#screenshot-1)
     - [Links](#links)
 
+  - [Responsividade]()
+
 ## Desafios 
 
 ### HTML e CSS
@@ -26,8 +28,8 @@ Como parte de um desafio extra, desenvolvi uma versão de layout mobile
 
 #### Screenshot
 <div align="center">
-  <img src="./html-css/assets/mobile.jpg" alt="Layout mobile">
-  <img src="./html-css/assets/mobile-active.jpg" alt="Layout mobile menu ativo">
+  <img src="./html-css/screenshot-mobile.jpg" alt="Layout mobile">
+  <img src="./html-css/screenshot-mobile-active.jpg" alt="Layout mobile menu ativo">
 </div>
 
 #### Links
