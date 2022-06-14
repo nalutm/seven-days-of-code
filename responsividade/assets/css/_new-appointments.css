@@ -3,7 +3,7 @@
   column-gap: 16px;
   display: grid;
   grid-template-columns: auto 70px;
-  grid-template-rows: 1fr auto auto 130px;
+  grid-template-rows: 1fr auto auto 180px;
   position: absolute;
   row-gap: 16px;
   height: 100vh;
