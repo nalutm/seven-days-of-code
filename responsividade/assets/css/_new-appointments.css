@@ -78,6 +78,6 @@
 
 @media screen and (min-width: 768px) {
   .new-appointments {
-    top: calc(100vh - 130px);
+    grid-template-rows: 1fr auto auto 130px;;
   }
 }
