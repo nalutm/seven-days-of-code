@@ -17,3 +17,11 @@
 .float-btn:hover {
   cursor: pointer;
 }
+
+@media screen and (min-width: 768px) {
+  .float-btn--plus {
+    position: fixed;
+    right: 16px;
+    top: calc(100vh - 130px);
+  }
+}
