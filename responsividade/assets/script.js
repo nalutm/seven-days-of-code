@@ -7,7 +7,19 @@ document.addEventListener('DOMContentLoaded', () => {
     $newAppointments.classList.toggle('new-appointments--active');
     if ($newAppointments.classList.contains('new-appointments--active')) {
       $newAppointments.classList.remove('new-appointments--inactive');
+      disableScroll();
+    } else {
+      document.body.classList.remove("stop-scrolling");
     }
   });
+
+  function disableScroll() {
+    document.body.classList.add("stop-scrolling");
+  }
+  
+  // function enableScroll() {
+  //   document.body.classList.remove("stop-scrolling");
+  // }
+  
 
 });

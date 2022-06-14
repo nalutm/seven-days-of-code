@@ -27,3 +27,8 @@ body {
 .appointment {
   margin: auto;
 }
+
+.stop-scrolling {
+  height: 100%;
+  overflow: hidden;
+}
