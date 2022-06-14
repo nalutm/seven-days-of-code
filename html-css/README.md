@@ -13,19 +13,18 @@
 
 ## Descrição do projeto
 
-Desafio [7 days of code](https://7daysofcode.io/) sobre HTML e CSS, consiste em deselvover uma página destinada a novas contrataçõe de uma empresa de TI. Foi disponibilizado um [protótipo figma](https://www.figma.com/file/mm3MLozvUDGhDRTxSLlGL5/7daysOfCode-HTML-CSS?node-id=0%3A1). 
+Resolução do desafio [7 days of code](https://7daysofcode.io/) sobre HTML e CSS que consiste em deselvover uma página destinada a novas contratações de uma empresa de TI a partir de um [protótipo figma](https://www.figma.com/file/mm3MLozvUDGhDRTxSLlGL5/7daysOfCode-HTML-CSS?node-id=0%3A1). 
 
 
 ### Processo de Desenvolvimento
 A partir desse desafio treinei: 
 * desenvolver o código a partir de um protótipo;
-* abordagem Mobile First;
 * flexbox;
 * layout responsivo;
 * componentização;
 
 ### Screenshot
-![screenshot desktop layout](./assets/img/desktop-layout.png)
+![screenshot desktop layout](./screenshot-desktop.pngdesktop-layout.png)
 
 
 ### Layout responsivo
@@ -33,8 +32,8 @@ Como parte de um desafio extra, desenvolvi uma versão de layout mobile
 
 #### Screenshot
 <div align="center">
-  <img src="./assets/mobile.jpg" alt="Layout mobile">
-  <img src="./assets/mobile-active.jpg" alt="Layout mobile menu ativo">
+  <img src="./screenshot-mobile.jpg" alt="Layout mobile">
+  <img src="./screenshot-mobile-active.jpg" alt="Layout mobile menu ativo">
 </div>
 
 ## Status do Projeto
