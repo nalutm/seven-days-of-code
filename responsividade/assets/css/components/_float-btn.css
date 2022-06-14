@@ -11,7 +11,7 @@
 .float-btn--plus {
   position: fixed;
   right: 16px;
-  top: calc(100vh - 132px);
+  top: calc(100vh - 180px);
 }
 
 .float-btn:hover {
