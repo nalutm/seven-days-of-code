@@ -24,11 +24,11 @@ A partir desse desafio treinei:
 * componentização;
 
 ### Screenshot
-![screenshot desktop layout]()
+![screenshot desktop layout](./screenshot-desktop.png)
 
 <div align="center">
-  <img src="./assets/mobile.jpg" alt="Layout mobile">
-  <img src="./assets/mobile-active.jpg" alt="Layout mobile menu ativo">
+  <img src="./screenshot-mobile.png" alt="Layout mobile">
+  <img src="./screenshot-mobile-active.png" alt="Layout mobile menu ativo">
 </div>
 
 ## Status do Projeto
@@ -40,7 +40,7 @@ Finalizado
 * JS
 
 ## Acesso ao projeto
-Você pode acessar o [código fonte do projeto](https://github.com/nalutm/seven-days-of-code/tree/main/responsividade). Também pode acessar a [página para conferir o resultado final]().
+Você pode acessar o [código fonte do projeto](https://github.com/nalutm/seven-days-of-code/tree/main/responsividade). Também pode acessar a [página para conferir o resultado final](https://seven-days-of-code-henna.vercel.app/).
 
 ## Autora
 [Nayara Luiza Tavares Moraes](https://github.com/nalutm)

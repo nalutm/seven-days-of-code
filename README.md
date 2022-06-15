@@ -54,13 +54,14 @@ Como parte de um desafio extra, desenvolvi uma versão de layout mobile
 
 #### Screenshot
 <div align="center">
-  <img src="./responsividade/screenshot-mobile.jpg" alt="Resultado layout mobile">
+  <img src="./responsividade/screenshot-mobile.png" alt="Resultado layout mobile">
+  <img src="./responsividade/screenshot-mobile-active.png" alt="Resultado layout mobile">
 </div>
 
 #### Links
-* [Protótipo figma](https://www.figma.com/file/mm3MLozvUDGhDRTxSLlGL5/7daysOfCode-HTML-CSS?node-id=0%3A1)
-* [Código fonte](https://github.com/nalutm/seven-days-of-code/tree/main/html-css)
-* [Resultado final](https://seven-days-of-code-beta.vercel.app/)
+* [Protótipo figma](https://www.figma.com/file/4OjHFmeHAgfX2JpRymOeA0/7days---Responsividade?node-id=6%3A622)
+* [Código fonte](https://github.com/nalutm/seven-days-of-code/tree/main/responsividade)
+* [Resultado final](https://seven-days-of-code-henna.vercel.app/)
 
 ## Autora 
 [Nayara Luiza Tavares Moraes](https://github.com/nalutm)

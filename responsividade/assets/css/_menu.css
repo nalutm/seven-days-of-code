@@ -29,6 +29,11 @@
   color: var(--blue);
 }
 
+.menu__icon {
+  height: 22px;
+  width: 20px;
+}
+
 .menu__text {
   color: var(--gray);
   font-size: 12px;
