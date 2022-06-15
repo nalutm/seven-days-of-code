@@ -24,12 +24,13 @@ A partir desse desafio treinei:
 * componentização;
 
 ### Screenshot
-![screenshot desktop layout](./screenshot-desktop.png)
-
 <div align="center">
   <img src="./screenshot-mobile.png" alt="Layout mobile">
   <img src="./screenshot-mobile-active.png" alt="Layout mobile menu ativo">
 </div>
+
+
+![screenshot desktop layout](./screenshot-desktop.png)
 
 ## Status do Projeto
 Finalizado

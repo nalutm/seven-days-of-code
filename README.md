@@ -13,7 +13,6 @@
 
   - [Responsividade](#responsividade)
     - [Screenshot](#screenshot-2)
-    - [Layout responsivo](#layout-responsivo-1)
     - [Screenshot](#screenshot-3)
     - [Links](#links-1)
 
@@ -47,16 +46,14 @@ Como parte de um desafio extra, desenvolvi uma versão de layout mobile
 Resolução do desafio sobre responsividade que consiste em desenvolver uma página responsiva para que os médicos e médicas contratados de uma clínica médica possam ter controle sobre todas suas consultas agendadas, sejam elas presenciais ou remotas. 
 
 #### Screenshot
-![Resultado Layout Desktop](./responsividade/screenshot-desktop.png)
-
-#### Layout Responsivo
-Como parte de um desafio extra, desenvolvi uma versão de layout mobile 
-
-#### Screenshot
 <div align="center">
   <img src="./responsividade/screenshot-mobile.png" alt="Resultado layout mobile">
-  <img src="./responsividade/screenshot-mobile-active.png" alt="Resultado layout mobile">
+  <img src="./responsividade/screenshot-mobile-active.png" alt="Resultado layout mobile ativo">
 </div>
+
+
+![Resultado Layout Desktop](./responsividade/screenshot-desktop.png)
+
 
 #### Links
 * [Protótipo figma](https://www.figma.com/file/4OjHFmeHAgfX2JpRymOeA0/7days---Responsividade?node-id=6%3A622)
