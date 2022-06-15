@@ -13,7 +13,8 @@
 
   - [Responsividade](#responsividade)
     - [Screenshot](#screenshot-2)
-    - [Screenshot](#screenshot-3)
+      - [Mobile](#mobile)
+      - [Desktop](#desktop)
     - [Links](#links-1)
 
 -[Autora](#autora)
@@ -46,19 +47,21 @@ Como parte de um desafio extra, desenvolvi uma versão de layout mobile
 Resolução do desafio sobre responsividade que consiste em desenvolver uma página responsiva para que os médicos e médicas contratados de uma clínica médica possam ter controle sobre todas suas consultas agendadas, sejam elas presenciais ou remotas. 
 
 #### Screenshot
+
+##### Mobile
 <div align="center">
   <img src="./responsividade/screenshot-mobile.png" alt="Resultado layout mobile">
   <img src="./responsividade/screenshot-mobile-active.png" alt="Resultado layout mobile ativo">
 </div>
 
-
+#### Desktop
 ![Resultado Layout Desktop](./responsividade/screenshot-desktop.png)
 
 
 #### Links
 * [Protótipo figma](https://www.figma.com/file/4OjHFmeHAgfX2JpRymOeA0/7days---Responsividade?node-id=6%3A622)
 * [Código fonte](https://github.com/nalutm/seven-days-of-code/tree/main/responsividade)
-* [Resultado final](https://seven-days-of-code-henna.vercel.app/)
+* [Resultado parcial](https://seven-days-of-code-henna.vercel.app/)
 
 ## Autora 
 [Nayara Luiza Tavares Moraes](https://github.com/nalutm)
