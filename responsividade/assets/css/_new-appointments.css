@@ -4,8 +4,10 @@
   display: grid;
   grid-template-columns: auto 70px;
   grid-template-rows: 1fr auto auto 180px;
-  position: absolute;
+  left: 0;
+  position: fixed;
   row-gap: 16px;
+  top: 0;
   height: 100vh;
   z-index: 2;
   width: 100%;

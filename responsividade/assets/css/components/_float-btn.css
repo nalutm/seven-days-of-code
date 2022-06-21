@@ -9,7 +9,7 @@
 }
 
 .float-btn--plus {
-  position: absolute;
+  position: fixed;
   right: 16px;
   top: calc(100vh - 180px);
 }
