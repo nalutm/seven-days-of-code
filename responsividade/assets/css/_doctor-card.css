@@ -32,6 +32,7 @@
 @media screen and (min-width: 1024px) {
   .doctor-card {
     max-width: 80%;
+    margin-left:  17%;
   }
   
   .doctor-card__img {

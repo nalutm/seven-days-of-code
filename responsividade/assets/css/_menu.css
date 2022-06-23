@@ -45,8 +45,35 @@
   color: var(--blue);
 }
 
-@media screen and (min-width: 768px) {
+.new-appointment {
+  display: none;
+}
+
+@media screen and (min-width: 1024px) {
   .menu {
-    top: calc(100vh - 58px);
+    align-items: flex-start;
+    height: 100vh;
+    padding: 2rem 0 0 1rem;
+    top: 0;
+    width: 15%;
+  }
+
+  .menu__list {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .menu__item {
+    flex-direction: row;
+    gap: .5rem;
+  }
+
+  .menu__text  {
+    font-size: 1.2rem;
+  }
+
+  .new-appointment {
+    display: flex;
   }
 }

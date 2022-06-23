@@ -13,7 +13,8 @@
 
 @media screen and (min-width: 1024px) {
   .appointments {
-    max-width: 80%;
+    margin: 0 0 1rem 17%;
+    width: 80%;
   }
 
   .appointments__list {

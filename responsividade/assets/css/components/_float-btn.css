@@ -23,3 +23,9 @@
     top: calc(100vh - 130px);
   }
 }
+
+@media screen and (min-width: 1024px) {
+  .float-btn--plus {
+    display: none;
+  }
+}

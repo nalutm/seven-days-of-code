@@ -10,6 +10,7 @@
 @import url(components/_float-btn.css);
 @import url(_menu.css);
 @import url(_new-appointments.css);
+@import url(_form.css);
 
 
 body {
