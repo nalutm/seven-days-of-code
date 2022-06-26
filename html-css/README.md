@@ -24,7 +24,7 @@ A partir desse desafio treinei:
 * componentização;
 
 ### Screenshot
-![screenshot desktop layout](./screenshot-desktop.pngdesktop-layout.png)
+![screenshot desktop layout](./docs/screenshot-desktop.pngdesktop-layout.png)
 
 
 ### Layout responsivo
@@ -32,8 +32,8 @@ Como parte de um desafio extra, desenvolvi uma versão de layout mobile
 
 #### Screenshot
 <div align="center">
-  <img src="./screenshot-mobile.jpg" alt="Layout mobile">
-  <img src="./screenshot-mobile-active.jpg" alt="Layout mobile menu ativo">
+  <img src="./docs/screenshot-mobile.jpg" alt="Screenshot layout mobile">
+  <img src="./docs/screenshot-mobile-active.jpg" alt="Screenshot layout mobile menu ativo">
 </div>
 
 ## Status do Projeto

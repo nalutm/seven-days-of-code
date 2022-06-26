@@ -29,12 +29,12 @@ A partir desse desafio treinei:
 
 #### Mobile
 <div align="center">
-  <img src="./screenshot-mobile.png" alt="Layout mobile">
-  <img src="./screenshot-mobile-active.png" alt="Layout mobile menu ativo">
+  <img src="./docs/screenshot-mobile.png" alt="Screenshot mobile layout">
+  <img src="./docs/screenshot-mobile-active.png" alt="Screenshot mobile menu ativo layout">
 </div>
 
 #### Desktop
-![screenshot desktop layout](./screenshot-desktop.png)
+![screenshot desktop layout](./docs/screenshot-desktop.png)
 
 ## Status do Projeto
 Finalizado

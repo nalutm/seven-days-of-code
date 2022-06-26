@@ -26,7 +26,7 @@
 Resolução do desafio sobre HTML e CSS que consiste em desenvolver uma página destinada a novas contratações de uma empresa de TI. 
 
 #### Screenshot
-![Resultado layout desktop](./html-css/screenshot-desktop.png)
+![Screenshot layout desktop](./html-css/docs/screenshot-desktop.png)
 
 
 #### Layout Responsivo
@@ -34,8 +34,8 @@ Como parte de um desafio extra, desenvolvi uma versão de layout mobile
 
 #### Screenshot
 <div align="center">
-  <img src="./html-css/screenshot-mobile.jpg" alt="Resultado layout mobile">
-  <img src="./html-css/screenshot-mobile-active.jpg" alt="Resultado layout mobile menu ativo">
+  <img src="./html-css/docs/screenshot-mobile.jpg" alt="Screenshot layout mobile">
+  <img src="./html-css/docs/screenshot-mobile-active.jpg" alt="Screenshot layout mobile menu ativo">
 </div>
 
 #### Links
@@ -50,18 +50,18 @@ Resolução do desafio sobre responsividade que consiste em desenvolver uma pág
 
 ##### Mobile
 <div align="center">
-  <img src="./responsividade/screenshot-mobile.png" alt="Resultado layout mobile">
-  <img src="./responsividade/screenshot-mobile-active.png" alt="Resultado layout mobile ativo">
+  <img src="./responsividade/docs/screenshot-mobile.png" alt="Screenshot layout mobile">
+  <img src="./responsividade/docs/screenshot-mobile-active.png" alt="Screenshot layout mobile ativo">
 </div>
 
 #### Desktop
-![Resultado Layout Desktop](./responsividade/screenshot-desktop.png)
+![Screenshot Layout Desktop](./responsividade/docs/screenshot-desktop.png)
 
 
 #### Links
 * [Protótipo figma](https://www.figma.com/file/4OjHFmeHAgfX2JpRymOeA0/7days---Responsividade?node-id=6%3A622)
 * [Código fonte](https://github.com/nalutm/seven-days-of-code/tree/main/responsividade)
-* [Resultado parcial](https://seven-days-of-code-henna.vercel.app/)
+* [Resultado final](https://seven-days-of-code-henna.vercel.app/)
 
 ## Autora 
 [Nayara Luiza Tavares Moraes](https://github.com/nalutm)
