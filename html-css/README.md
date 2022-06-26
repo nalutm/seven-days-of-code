@@ -24,7 +24,7 @@ A partir desse desafio treinei:
 * componentização;
 
 ### Screenshot
-![screenshot desktop layout](./docs/screenshot-desktop.pngdesktop-layout.png)
+![screenshot desktop layout](./docs/screenshot-desktop.png)
 
 
 ### Layout responsivo
@@ -49,4 +49,3 @@ Você pode acessar o [código fonte do projeto](https://github.com/nalutm/seven-
 
 ## Autora
 [Nayara Luiza Tavares Moraes](https://github.com/nalutm)
-

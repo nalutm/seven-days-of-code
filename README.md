@@ -17,7 +17,7 @@
       - [Desktop](#desktop)
     - [Links](#links-1)
 
--[Autora](#autora)
+- [Autora](#autora)
 
 ## Desafios 
 
