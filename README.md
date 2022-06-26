@@ -8,7 +8,7 @@
   - [HTML e CSS](#html-e-css)
     - [Screenshot](#screenshot)
     - [Layout responsivo](#layout-responsivo)
-    - [Screenshot](#screenshot-1)
+      - [Screenshot](#screenshot-1)
     - [Links](#links)
 
   - [Responsividade](#responsividade)
