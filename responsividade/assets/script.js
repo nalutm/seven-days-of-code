@@ -17,4 +17,12 @@ document.addEventListener('DOMContentLoaded', () => {
     document.body.classList.add("stop-scrolling");
   }
 
+  if (window.innerWidth <= 768) {
+    const navegationBar = window.outerHeight - window.innerHeight;
+    if (window.pageYOffset === navegationBar) {
+      const $menu = document.querySelector('[data-js="menu"]');
+      $menu.style.top += navegationBar + 'px';
+    }  
+  }
+
 });
